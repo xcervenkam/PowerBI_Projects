@@ -81,7 +81,7 @@ Each project folder contains:
 **Michal Červenka**  
 Aspiring Data Analyst / BI Analyst  
 📍 Location: Brno  
-🔗 LinkedIn: https://www.linkedin.com/in/michal-%C4%8Dervenka-45308027b/
+🔗 LinkedIn: [**Michal Červenka**](https://www.linkedin.com/in/michal-%C4%8Dervenka-45308027b/)
 📧 Email: cervenka.michal12@gmail.com
 
 ---
