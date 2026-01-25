@@ -24,7 +24,7 @@ Each project simulates a real-world analytical scenario, covering data cleaning,
 **Project focus:**  
 Analysis of player performance metrics in the English Premier League to identify trends, top performers, and positional insights.
 
-**Key aspects (to be expanded):**
+**Key aspects:**
 - Data source & preparation
 - KPIs and metrics
 - Interactive dashboard features
@@ -39,7 +39,7 @@ Analysis of player performance metrics in the English Premier League to identify
 **Project focus:**  
 Exploratory and visual analysis of stock market data to track price movements, trends, and performance over time.
 
-**Key aspects (to be expanded):**
+**Key aspects:**
 - Time-series analysis
 - Market trends & volatility
 - Key indicators
@@ -54,7 +54,7 @@ Exploratory and visual analysis of stock market data to track price movements, t
 **Project focus:**  
 Classic analytical case study examining factors influencing passenger survival on the Titanic.
 
-**Key aspects (to be expanded):**
+**Key aspects:**
 - Data cleaning & feature engineering
 - Survival rate analysis
 - Demographic insights
@@ -80,7 +80,9 @@ Each project folder contains:
 ## 👤 Author
 **Michal Červenka**  
 Aspiring Data Analyst / BI Analyst  
+
 📍 Location: Brno  
+
 🔗 LinkedIn: [**Michal Červenka**](https://www.linkedin.com/in/michal-%C4%8Dervenka-45308027b/)
 
 📧 Email: cervenka.michal12@gmail.com
