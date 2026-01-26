@@ -62,6 +62,20 @@ Classic analytical case study examining factors influencing passenger survival o
 
 ---
 
+### 4️⃣ Heart Failure – Exploratory Analysis for Predictive Modeling
+**Folder:** `Heart_Failure`
+
+**Project focus:**  
+Exploratory data analysis supporting the development of a predictive model for heart failure outcomes.  .
+
+**Key aspects:**
+- Data understanding and quality assessment
+- Feature distribution and relationship analysis
+- Identification of patterns relevant for prediction
+- Visual exploration supporting feature selection
+
+---
+
 ## 📌 What This Portfolio Demonstrates
 - Business-oriented data analysis
 - Clear KPI definition
