@@ -15,6 +15,22 @@ The final report consists of four analytical pages:
 
 ---
 
+## Folder Structure
+
+```text
+BikeSharing_Project/
+|- data_raw/
+|  |- citibike/
+|  `- weather/
+|- pbix/
+|  `- BikeSharing_report.pbix
+|- screnshots/
+|  `- dashboard screenshots
+`- README.md
+```
+
+---
+
 ## Data Sources
 
 ### Citi Bike Trip Data
@@ -269,19 +285,3 @@ Main visuals:
 - wind speed vs ride volume over time
 - date range slicer
 
----
-
-## Folder Structure
-
-```text
-BikeSharing_Project/
-│
-├── data_raw/
-│   ├── citibike/
-│   └── weather/
-│
-├── pbix/
-│   └── Power BI report file
-│
-└── screenshots/
-    └── dashboard screenshots
