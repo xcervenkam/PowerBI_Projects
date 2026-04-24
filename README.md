@@ -33,56 +33,7 @@ Analysis of player performance metrics in the English Premier League to identify
 
 ---
 
-### 2️⃣ Stock Market Analysis
-**Folder:** `Stock_Market`
 
-**Project focus:**  
-Exploratory and visual analysis of stock market data to track price movements, trends, and performance over time.
-
-**Key aspects:**
-- Time-series analysis
-- Market trends & volatility
-- Key indicators
-- Dashboard storytelling
-
-
----
-
-### 3️⃣ Titanic Survival Analysis
-**Folder:** `Titanic`
-
-**Project focus:**  
-Classic analytical case study examining factors influencing passenger survival on the Titanic.
-
-**Key aspects:**
-- Data cleaning & feature engineering
-- Survival rate analysis
-- Demographic insights
-- Visualization-driven conclusions
-
----
-
-### 4️⃣ Heart Failure – Exploratory Analysis for Predictive Modeling
-**Folder:** `Heart_Failure`
-
-**Project focus:**  
-Exploratory data analysis supporting the development of a predictive model for heart failure outcomes.  .
-
-**Key aspects:**
-- Data understanding and quality assessment
-- Feature distribution and relationship analysis
-- Identification of patterns relevant for prediction
-- Visual exploration supporting feature selection
-
----
-
-## 📌 What This Portfolio Demonstrates
-- Business-oriented data analysis
-- Clear KPI definition
-- Data modeling and relationships
-- Interactive and user-friendly dashboards
-
----
 
 ## 📂 How to Explore the Projects
 Each project folder contains:

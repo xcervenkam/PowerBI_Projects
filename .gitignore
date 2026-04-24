@@ -1,0 +1,7 @@
+BikeSharing_Project/data_raw/citibike/
+BikeSharing_Project/pbix/
+PL_ Player_ Stats/df_cleaning.ipynb
+
+# Python cache files generated during notebook work
+__pycache__/
+*.pyc
