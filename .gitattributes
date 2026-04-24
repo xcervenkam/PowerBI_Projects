@@ -1,0 +1,2 @@
+BikeSharing_Project/data_raw/citibike/*.csv filter=lfs diff=lfs merge=lfs -text
+BikeSharing_Project/pbix/*.pbix filter=lfs diff=lfs merge=lfs -text
