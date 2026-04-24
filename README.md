@@ -1,57 +1,74 @@
 # Power BI Projects Portfolio
 
-This repository serves as a **Business Intelligence & Data Analytics portfolio**, showcasing projects built primarily in **Power BI** with a focus on transforming raw data into **actionable insights**.
+This repository is a portfolio of Power BI projects focused on turning raw data into clear, decision-oriented insights.
 
-Each project simulates a real-world analytical scenario, covering data cleaning, modeling, analysis, and data visualization.
+The projects combine data preparation, modeling, DAX, and interactive dashboard design across different analytical domains.
 
 ---
 
-## 🔧 Tools & Technologies
+## Overview
+
+The portfolio currently includes:
+
+### 1. Premier League Player Statistics
+**Folder:** `PL_ Player_ Stats`
+
+**Project focus:**  
+Analysis of player-level performance data from the 2023/24 Premier League season, with emphasis on player profiles, finishing, playmaking, and drill-through analysis.
+
+**Highlights:**
+- data cleaning in Python and Jupyter
+- Power BI dashboard with interactive filtering
+- performance comparison using goals, assists, xG, and xAG
+- player-level drill-through reporting
+
+### 2. Urban Bike Sharing Analytics Dashboard
+**Folder:** `BikeSharing_Project`
+
+**Project focus:**  
+Analysis of New York City bike-sharing demand using Citi Bike trip data enriched with historical weather data.
+
+**Highlights:**
+- multi-file data preparation in Power Query
+- demand analysis by time, rider type, geography, and weather
+- interactive Power BI report across multiple analytical pages
+- combination of trip and weather data for deeper contextual insights
+
+---
+
+## Tools and Technologies
+
 - Power BI
 - DAX
 - Power Query
-- SQL (where applicable)
-- Python (for data preparation / analysis where applicable)
-- Excel / CSV datasets
+- Python
+- Jupyter Notebook
+- CSV and JSON data sources
+- Data modeling and dashboard design
 
 ---
 
-## 📊 Projects Overview
+## How To Explore
 
-### 1️⃣ Premier League Player Statistics
-**Folder:** `PL_Player_Stats`
+Each project folder typically contains:
 
-**Project focus:**  
-Analysis of player performance metrics in the English Premier League to identify trends, top performers, and positional insights.
-
-**Key aspects:**
-- Data source & preparation
-- KPIs and metrics
-- Interactive dashboard features
-- Business / analytical insights
-
+- a project-specific `README.md`
+- the Power BI report file (`.pbix`)
+- source or processed data files
+- screenshots of the dashboard
+- notebooks or supporting files when relevant
 
 ---
 
+## Author
 
+**Michal Cervenka**  
+Aspiring Data Analyst / BI Analyst
 
-## 📂 How to Explore the Projects
-Each project folder contains:
-- Power BI report file (`.pbix`)
-- Source data (if applicable)
-
----
-
-## 👤 Author
-**Michal Červenka**  
-Aspiring Data Analyst / BI Analyst  
-
-📍 Location: Brno  
-
-🔗 LinkedIn: [**Michal Červenka**](https://www.linkedin.com/in/michal-%C4%8Dervenka-45308027b/)
-
-📧 Email: cervenka.michal12@gmail.com
+- Location: Brno
+- LinkedIn: [Michal Cervenka](https://www.linkedin.com/in/michal-%C4%8Dervenka-45308027b/)
+- Email: cervenka.michal12@gmail.com
 
 ---
 
-*This repository is continuously evolving as new projects and analyses are added.*
+This repository continues to grow as new Power BI projects are added.
