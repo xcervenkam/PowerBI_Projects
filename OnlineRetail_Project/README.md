@@ -32,15 +32,6 @@ The dataset contains transactional records such as:
 - customer ID
 - country
 
-### 2. Calendar / Holiday Data
-A historical UK bank holidays file was explored during the project in order to test holiday-related analysis.
-
-In practice, the final report focused primarily on:
-
-- monthly seasonality
-- weekday vs weekend patterns
-
-This decision was made because weekend-related patterns were clearly present in the data, while direct holiday-day revenue patterns were not strong enough to be a central analytical story for the final dashboard.
 
 ---
 
@@ -364,7 +355,6 @@ OnlineRetail_Project/
 │
 ├── data_raw/
 │   ├── online_retail_II.xlsx
-│   └── bank-holidays / historical holiday files
 │
 ├── pbix/
 │   └── OnlineRetail_Report.pbix
