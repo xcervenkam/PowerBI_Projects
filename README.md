@@ -34,6 +34,18 @@ Analysis of New York City bike-sharing demand using Citi Bike trip data enriched
 - interactive Power BI report across multiple analytical pages
 - combination of trip and weather data for deeper contextual insights
 
+### 3. Online Retail Performance Dashboard
+**Folder:** `OnlineRetail_Project`
+
+**Project focus:**  
+Analysis of online retail transaction data to understand sales performance, customer behavior, and seasonal demand patterns.
+
+**Highlights:**
+- Power Query preparation of multi-sheet retail transaction data
+- customer segmentation and order-frequency analysis
+- revenue analysis by country, product, and time
+- interactive Power BI pages focused on executive, customer, and seasonality views
+
 ---
 
 ## Tools and Technologies
